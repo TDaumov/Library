@@ -1,0 +1,58 @@
+{"level":"info","time":"2025-12-06T17:14:59+05:00","message":"Starting application..."}
+{"level":"error","time":"2025-12-06T17:14:59+05:00","message":"This is an error message"}
+{"level":"info","time":"2025-12-06T17:14:59+05:00","message":"Starting server on :8080"}
+{"level":"info","email":"user@example.com","time":"2025-12-06T17:15:06+05:00","message":"User logged in successfully"}
+{"level":"info","count":0,"time":"2025-12-06T17:18:07+05:00","message":"Listed books successfully"}
+{"level":"info","email":"user@example.com","time":"2025-12-06T17:20:51+05:00","message":"User logged in successfully"}
+{"level":"info","count":0,"time":"2025-12-06T17:21:13+05:00","message":"Listed books successfully"}
+{"level":"error","error":"code=400, message=parsing time \"2025-12-06\" as \"2006-01-02T15:04:05Z07:00\": cannot parse \"\" as \"T\", internal=parsing time \"2025-12-06\" as \"2006-01-02T15:04:05Z07:00\": cannot parse \"\" as \"T\"","time":"2025-12-06T17:21:58+05:00","message":"Failed to bind CreateBookDTO"}
+{"level":"info","email":"admin@example.com","time":"2025-12-06T17:26:17+05:00","message":"Admin user created successfully"}
+{"level":"info","time":"2025-12-06T17:26:17+05:00","message":"Starting application..."}
+{"level":"error","time":"2025-12-06T17:26:17+05:00","message":"This is an error message"}
+{"level":"info","time":"2025-12-06T17:26:17+05:00","message":"Starting server on :8080"}
+{"level":"info","email":"admin@example.com","time":"2025-12-06T17:27:38+05:00","message":"User logged in successfully"}
+{"level":"error","error":"code=400, message=parsing time \"2025-12-06\" as \"2006-01-02T15:04:05Z07:00\": cannot parse \"\" as \"T\", internal=parsing time \"2025-12-06\" as \"2006-01-02T15:04:05Z07:00\": cannot parse \"\" as \"T\"","time":"2025-12-06T17:28:08+05:00","message":"Failed to bind CreateBookDTO"}
+{"level":"info","email":"admin@example.com","time":"2025-12-06T17:29:36+05:00","message":"User logged in successfully"}
+{"level":"error","error":"code=400, message=parsing time \"2025-12-06\" as \"2006-01-02T15:04:05Z07:00\": cannot parse \"\" as \"T\", internal=parsing time \"2025-12-06\" as \"2006-01-02T15:04:05Z07:00\": cannot parse \"\" as \"T\"","time":"2025-12-06T17:29:56+05:00","message":"Failed to bind CreateBookDTO"}
+{"level":"info","book_id":"6771d7fc-303d-4729-aeb2-b8a39d1e629d","title":"New Book","time":"2025-12-06T17:33:22+05:00","message":"Book created successfully"}
+{"level":"info","book_id":"fb16ed2a-599c-4851-859d-4671a62e344e","title":"New Book 1","time":"2025-12-06T17:34:30+05:00","message":"Book created successfully"}
+{"level":"info","book_id":"846060db-60c2-4b24-9098-7e42efa75717","title":"New Book 2","time":"2025-12-06T17:34:58+05:00","message":"Book created successfully"}
+{"level":"info","book_id":"bfc11a19-8c66-4a09-ac9f-9ffd5eb3ef4c","title":"New Book 3","time":"2025-12-06T17:35:19+05:00","message":"Book created successfully"}
+{"level":"info","book_id":"123e9705-0909-42ba-af22-abf16dae6e94","title":"New Book 4","time":"2025-12-06T17:36:29+05:00","message":"Book created successfully"}
+{"level":"info","book_id":"8300d6ac-f929-40f9-83ee-3c8c826cc8f8","title":"New Book 5","time":"2025-12-06T17:36:44+05:00","message":"Book created successfully"}
+{"level":"info","email":"user1@example.com","role":"reader","time":"2025-12-06T17:39:18+05:00","message":"User registered successfully"}
+{"level":"info","email":"user@example.com","time":"2025-12-06T17:39:41+05:00","message":"User logged in successfully"}
+{"level":"info","count":6,"time":"2025-12-06T17:40:53+05:00","message":"Listed books successfully"}
+{"level":"info","book_id":"6771d7fc-303d-4729-aeb2-b8a39d1e629d","time":"2025-12-06T17:44:15+05:00","message":"Book borrowed successfully"}
+{"level":"warn","book_id":"8f8fd255-5022-44f8-bc67-a1e912a0646f","time":"2025-12-06T17:44:56+05:00","message":"Book not found for borrow"}
+{"level":"info","book_id":"fb16ed2a-599c-4851-859d-4671a62e344e","time":"2025-12-06T17:45:28+05:00","message":"Book borrowed successfully"}
+{"level":"info","book_id":"846060db-60c2-4b24-9098-7e42efa75717","time":"2025-12-06T17:47:40+05:00","message":"Book borrowed successfully"}
+{"level":"warn","book_id":"846060db-60c2-4b24-9098-7e42efa75717","time":"2025-12-06T17:49:22+05:00","message":"Book already borrowed"}
+{"level":"warn","book_id":"846060db-60c2-4b24-9098-7e42efa75717","time":"2025-12-06T17:50:57+05:00","message":"Book already borrowed"}
+{"level":"info","book_id":"123e9705-0909-42ba-af22-abf16dae6e94","time":"2025-12-06T17:51:08+05:00","message":"Book borrowed successfully"}
+{"level":"info","email":"admin@example.com","time":"2025-12-06T18:06:52+05:00","message":"Admin user already exists"}
+{"level":"info","time":"2025-12-06T18:06:52+05:00","message":"Starting application..."}
+{"level":"error","time":"2025-12-06T18:06:52+05:00","message":"This is an error message"}
+{"level":"info","time":"2025-12-06T18:06:52+05:00","message":"Starting server on :8080"}
+{"level":"warn","book_id":"123e9705-0909-42ba-af22-abf16dae6e94","time":"2025-12-06T18:07:00+05:00","message":"Book already borrowed"}
+{"level":"warn","book_id":"6771d7fc-303d-4729-aeb2-b8a39d1e629d","time":"2025-12-06T18:07:14+05:00","message":"Book already borrowed"}
+{"level":"warn","email":"admin@example.com","error":"invalid credentials","time":"2025-12-06T18:08:09+05:00","message":"Login failed"}
+{"level":"warn","email":"admin@example.com","error":"invalid credentials","time":"2025-12-06T18:08:18+05:00","message":"Login failed"}
+{"level":"info","email":"admin@example.com","time":"2025-12-06T18:09:08+05:00","message":"User logged in successfully"}
+{"level":"info","email":"admin@example.com","time":"2025-12-06T18:14:13+05:00","message":"Admin user already exists"}
+{"level":"info","time":"2025-12-06T18:14:13+05:00","message":"Starting application..."}
+{"level":"error","time":"2025-12-06T18:14:13+05:00","message":"This is an error message"}
+{"level":"info","time":"2025-12-06T18:14:13+05:00","message":"Starting server on :8080"}
+{"level":"info","email":"user@example.com","time":"2025-12-06T18:15:13+05:00","message":"User logged in successfully"}
+{"level":"info","email":"admin@example.com","time":"2025-12-06T18:20:42+05:00","message":"Admin user already exists"}
+{"level":"info","time":"2025-12-06T18:20:42+05:00","message":"Starting application..."}
+{"level":"error","time":"2025-12-06T18:20:42+05:00","message":"This is an error message"}
+{"level":"info","time":"2025-12-06T18:20:42+05:00","message":"Starting server on :8080"}
+{"level":"error","time":"2025-12-06T18:20:50+05:00","message":"Cannot parse user ID from token"}
+{"level":"info","email":"user@example.com","time":"2025-12-06T18:29:09+05:00","message":"User logged in successfully"}
+{"level":"info","email":"admin@example.com","time":"2025-12-06T18:34:18+05:00","message":"Admin user already exists"}
+{"level":"info","time":"2025-12-06T18:34:18+05:00","message":"Starting application..."}
+{"level":"error","time":"2025-12-06T18:34:18+05:00","message":"This is an error message"}
+{"level":"info","time":"2025-12-06T18:34:18+05:00","message":"Starting server on :8080"}
+{"level":"info","book_id":"bfc11a19-8c66-4a09-ac9f-9ffd5eb3ef4c","user_id":"8f8fd255-5022-44f8-bc67-a1e912a0646f","time":"2025-12-06T18:34:26+05:00","message":"Book borrowed successfully"}
+{"level":"info","book_id":"8300d6ac-f929-40f9-83ee-3c8c826cc8f8","user_id":"8f8fd255-5022-44f8-bc67-a1e912a0646f","time":"2025-12-06T18:34:52+05:00","message":"Book borrowed successfully"}
